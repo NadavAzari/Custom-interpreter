@@ -16,6 +16,15 @@ age = number(input("Your age: "))
 print(name + " is " + str(age) + " years old")
 ```
 
+## Mathematical operations
+```python
+a = 5
+b = 6
+c = a + (a ^ b)
+d = c * (a & (c - b))
+```
+
+
 ## Functions and if statements
 ```js
 function max(a,b) {
