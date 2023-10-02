@@ -19,18 +19,18 @@ print(name + " is " + str(age) + " years old")
 ## Functions and if statements
 ```js
 function max(a,b) {
-    if a > b{
+    if a > b {
        return a
     }
     return b
 }
 
 b = number(input("number: "))
-max(4,b)
+mx = max(4,b)
 ```
 
 ## While loop and random numbers
-```bash
+```python
 a = 10
 while a > 0 {
    a = a - 1
