@@ -1,7 +1,7 @@
 # Interpreter in CPP
 
 ## Variable declerations
-```bash
+```python
 name = "Hello"
 age = 3
 is_child = True
@@ -10,14 +10,14 @@ weight = 5.3
 > Note you can change variable from type a to type b
 
 ## I/O operations and convertions
-```bash 
+```python 
 name = input("Your name: ")
 age = number(input("Your age: "))
 print(name + " is " + str(age) + " years old")
 ```
 
 ## Functions and if statements
-```bash
+```js
 function max(a,b) {
     if a > b{
        return a
